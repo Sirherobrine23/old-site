@@ -1,9 +1,9 @@
 body{
 	background-image: url(/image/linux-background.jpg);
+	background-size: cover;
 width: 97%;
 margin: auto;
 max-width: 100%;
-background-size: cover;
 background-repeat: no-repeat;
 font-family: "Noto-sans-SC";
 border: 10px;
