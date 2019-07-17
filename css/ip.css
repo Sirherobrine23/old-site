@@ -1,0 +1,15 @@
+*{
+	text-align: center;
+}
+script{
+	text-align: center;
+	color: blue;
+}
+main{
+	border-radius: 25px;
+	margin: auto;
+	background: rgba(12 , 12 ,12 , 0.12);
+	width: 50%;
+	max-width: 100%;
+	padding: 0.1px;
+}

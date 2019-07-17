@@ -12,23 +12,14 @@ line-height: 2.0
 }
 *{
 text-align: center;
+align: center;
 }
 main{
 background-color: rgba(136, 124, 124, 0.503);
 padding: 5;
 margin-top: 70px;
 color: black;
-}
-.final{ 
-position:absolute;
-background-image: url(final.png);
-width:auto;
-height:auto; 
-float: right; 
-margin-bottom: 0;
-position: absolute; 
-right: 0px; 
-bottom: 0;
+border-color: black;
 }
 .esquerdonu{
 float: left;
@@ -60,17 +51,12 @@ margin-bottom: 25px;
 font-size: 25px;
 image-resolution: 3200dpi ;
 }
-.font {
-font-size: 10;
-font-size-adjust: 10;
-}
-.font2 {
-font-size: 1;
-font-size-adjust: 1;
-}
 a{
     color: blue;
 }
 p{
     color: black;
 }
+img{
+    align: center;
+}*/

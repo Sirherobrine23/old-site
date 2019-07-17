@@ -1,0 +1,33 @@
+*{
+	text-align: center;
+}
+body{
+	background: url(/image/fundo.png);
+	background-size: cover;
+	/*width: 15%;
+	max-width: 100%;
+	padding: 0.1px;*/
+	margin: auto;
+	background: rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+main{
+
+}
+a{
+	color: black;
+}
+iframe{
+	border-radius: 25px;
+}
+.final{
+	position:absolute;
+background-image: url(final.png);
+width:auto;
+height:auto; 
+float: right; 
+margin-bottom: 0;
+position: absolute; 
+right: 0px; 
+bottom: 0;
+}

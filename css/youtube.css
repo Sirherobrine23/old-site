@@ -1,0 +1,23 @@
+*{
+	color: black;
+}
+.youtube{
+	width: 15%;
+	max-width: 100%;
+	padding: 10px;
+	margin: auto;
+	background: rgba(255, 0, 0, 0.1);
+	border-radius: 5px;
+}
+.about{
+position:absolute;
+background-image: url(/image/final.png);
+width:auto;
+height:auto; 
+float: right; 
+margin-bottom: 0;
+position: absolute; 
+right: 0px; 
+bottom: 0;
+}
+/*<link rel="stylesheet" type="text/css" href="/css/youtube.css"/>*/
