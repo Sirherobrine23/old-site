@@ -1,61 +1,30 @@
-body{
-width: 97%;
-margin: auto;
-max-width: 100%;
-background: url(/image/ffun.png);
-background-size: cover;
-background-repeat: no-repeat;
-font-family: "Noto-sans-SC";
-border: 10px;
-color: #00aeff;
-line-height: 2.0
-}
 *{
 text-align: center;
 align: center;
 }
+body{
+width: 90%;
+margin: auto;
+max-width: 70%;
+background: url(/image/ffun.png);
+background-size: cover;
+background-repeat: no-repeat;
+border: 20px;
+color: #00aeff;
+line-height: 
+}
 main{
 background-color: rgba(136, 124, 124, 0.503);
 padding: 5;
-margin-top: 70px;
+margin-top: 80px;
 color: black;
 border-color: black;
 }
-.esquerdonu{
-float: left;
-width: 30%; }
-.direito{
-float: right;
-width: 60%; }
-.tudo{
-display: table;
-}
-.clear { clear: both; }
-.bloco{
-float: left;
-height: 150px;
-width: 199px;
-Color: Black ;
-margin-top: -22px;
-margin-bottom: 25px;
-font-size: 25px;
-image-resolution: 3200dpi ;
-}
-.bloco2{
-float: left;
-height: 150px;
-width: 199px;
-Color: blue ;
-margin-top: -22px;
-margin-bottom: 25px;
-font-size: 25px;
-image-resolution: 3200dpi ;
-}
 a{
-    color: blue;
+    color: black;
 }
 p{
-    color: black;
+    line-height: 2;
 }
 img{
     align: center;

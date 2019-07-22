@@ -1,0 +1,32 @@
+*{
+text-align: center;
+align: center;
+}
+body{
+width: 90%;
+margin: auto;
+max-width: 70%;
+background: url(/image/ffun.png);
+background-size: cover;
+background-repeat: no-repeat;
+border: 20px;
+color: #00aeff;
+line-height: 
+}
+main{
+    border-radius: 25px;
+background-color: rgba(0, 39, 51, 0.35);
+padding: 5;
+margin-top: 80px;
+color: black;
+border-color: black;
+}
+a{
+    color: black;
+}
+p{
+    line-height: 2;
+}
+img{
+    align: center;
+}*/
