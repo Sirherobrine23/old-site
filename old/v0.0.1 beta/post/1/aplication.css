@@ -1,0 +1,37 @@
+body{
+    width: 80%;
+    margin: auto;
+    max-width: 100%;
+    background: url(backgroud.jpg) center;
+    font-family: "Noto-sans-SC";
+    color: #0b2ce4;
+
+    line-height: 1.5 
+}
+
+
+main{
+
+    background: #0000004a;
+    padding: 5;
+    border-radius: 5px;
+    margin-top: 33px;
+}
+
+
+.name, .subtitulo{
+    margin: 0;
+    text-align: center;
+ }
+
+ .final{ 
+position:absolute;
+background-image: url(final.png);
+width:auto;
+height:auto; 
+float: right; 
+margin-bottom: 0;
+position: absolute; 
+right: 0px; 
+bottom: 0;
+    }
