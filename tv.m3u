@@ -1133,6 +1133,22 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7317
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2229
 #EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes",OFF HD [Alter]
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7316
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 1" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 1
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25273
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 2" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 2
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25274
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 3" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 3
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25275
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 4" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 4
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25276
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 5" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 5
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25277
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 6" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 6
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25278
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 7" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 7
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25279
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 8" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 8
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25280
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2228
 #EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount  HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount  HD [Alter]
@@ -1915,6 +1931,14 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/11718
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7205
 #EXTINF:-1 tvg-id="" tvg-name="Tico e Teco 24H" tvg-logo="http://logocanais.ddns.net/Logo/ticoteco.png" group-title="Canais: 24hrs",Tico e Teco 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7197
+#EXTINF:-1 tvg-id="" tvg-name="TR Classicos Series 24H" tvg-logo="http://logocanais.ddns.net/Logo/tr.jpg" group-title="Canais: 24hrs",TR Classicos Series 24H
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25308
+#EXTINF:-1 tvg-id="" tvg-name="TR Classicos Toons 24H" tvg-logo="http://logocanais.ddns.net/Logo/tr2.jpg" group-title="Canais: 24hrs",TR Classicos Toons 24H
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25326
+#EXTINF:-1 tvg-id="" tvg-name="TR Vida Primitiva" tvg-logo="http://logocanais.ddns.net/Logo/tr3.jpg" group-title="Canais: Documentários",TR Vida Primitiva
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25327
+#EXTINF:-1 tvg-id="" tvg-name="TR Stand-up" tvg-logo="http://logocanais.ddns.net/Logo/tr4.jpg" group-title="Canais: Variedades e Músicas",TR Stand-up
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25340
 #EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry 24H" tvg-logo="http://logocanais.ddns.net/Logo/tom.png" group-title="Canais: 24hrs",Tom e Jerry 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/8287
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Monica 24H" tvg-logo="http://logocanais.ddns.net/Logo/monica.png" group-title="Canais: 24hrs",Turma da Monica 24H
@@ -1973,5 +1997,3 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9446
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7557
 #EXTINF:-1 tvg-id="" tvg-name="ANUNCIA GOSPEL" tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios",ANUNCIA GOSPEL
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/18398
-
-
