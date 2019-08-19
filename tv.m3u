@@ -847,8 +847,6 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/13770
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7365
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="https://goo.gl/TbZ4w1" group-title="Canais: Religioso",Gospel Cartoon
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/11095
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Movies Television" tvg-logo="https://goo.gl/1Fuwzj" group-title="Canais: Religioso",Gospel Movies Television
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/11512
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentários",H2
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2269
 #EXTINF:-1 tvg-id="" tvg-name="H2 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/H21.png" group-title="Canais: Documentários",H2 [Alter 2]
@@ -1135,6 +1133,22 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7317
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2229
 #EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes",OFF HD [Alter]
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7316
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 1" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 1
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25273
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 2" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 2
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25274
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 3" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 3
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25275
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 4" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 4
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25276
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 5" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 5
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25277
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 6" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 6
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25278
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 7" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 7
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25279
+#EXTINF:-1 tvg-id="" tvg-name="Pan-Americanos 8" tvg-logo="http://logocanais.ddns.net/Logo/Pan.png" group-title="Canais: Esportes",Pan-Americanos 8
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25280
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2228
 #EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount  HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series",Paramount  HD [Alter]
@@ -1669,7 +1683,7 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7248
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/18412
 #EXTINF:-1 tvg-id="" tvg-name="Trans 2" tvg-logo="http://logocanais.ddns.net/Capas/2.png" group-title="Canais: Adultos",Trans 2
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/18413
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://logocanais.ddns.net/Logo/trutv1.png" group-title="Canais: Variedades e Músicas",TruTV
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://logocanais.ddns.net/Logo/trutv1.png" group-title="Canais: Documentários",TruTV
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2161
 #EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/trutv1.png" group-title="Canais: Documentários",TruTV [Alter]
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7238
@@ -1795,16 +1809,12 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/3834
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/13286
 #EXTINF:-1 tvg-id="" tvg-name="Carl o Super Caminhao 24H" tvg-logo="http://logocanais.ddns.net/Logo/carl.jpg" group-title="Canais: 24hrs",Carl o Super Caminhao 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/8288
-#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodíaco Hades 24H" tvg-logo="http://logocanais.ddns.net/Logo/cava.png" group-title="Canais: 24hrs",Cavaleiros do Zodíaco Hades 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/12436
 #EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" tvg-logo="http://logocanais.ddns.net/Logo/cavaleiros1.png" group-title="Canais: 24hrs",Cavaleiros dos Zodiacos 24H Saga Doze Casas
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7219
 #EXTINF:-1 tvg-id="" tvg-name="Cavaleiros Zodiaco 24h" tvg-logo="http://logocanais.ddns.net/Logo/cavaleiros1.png" group-title="Canais: 24hrs",Cavaleiros Zodiaco 24h
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9
 #EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo 24H" tvg-logo="http://logocanais.ddns.net/Logo/cavalo.png" group-title="Canais: 24hrs",Cavalo de Fogo 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/13962
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao 24H" tvg-logo="http://logocanais.ddns.net/Logo/caverna.png" group-title="Canais: 24hrs",Caverna do Dragao 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9839
 #EXTINF:-1 tvg-id="" tvg-name="Changeman 24H" tvg-logo="http://logocanais.ddns.net/Logo/changeman.png" group-title="Canais: 24hrs",Changeman 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/11691
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin 24H" tvg-logo="http://logocanais.ddns.net/Logo/chapolin.png" group-title="Canais: 24hrs",Chapolin 24H
@@ -1825,10 +1835,6 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/12369
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/3835
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico 24H" tvg-logo="http://logocanais.ddns.net/Logo/dragonclassico.png" group-title="Canais: 24hrs",Dragon Ball Classico 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7215
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT 24H" tvg-logo="http://logocanais.ddns.net/Logo/dragongt.png" group-title="Canais: 24hrs",Dragon Ball GT 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/10
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 24H" tvg-logo="http://logocanais.ddns.net/Logo/dragonballsuper.png" group-title="Canais: 24hrs",Dragon Ball Super 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/8854
 #EXTINF:-1 tvg-id="" tvg-name="Du Dudu e Edu 24H" tvg-logo="http://logocanais.ddns.net/Logo/dudu.png" group-title="Canais: 24hrs",Du Dudu e Edu 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/13581
 #EXTINF:-1 tvg-id="" tvg-name="Duck Tales 24H" tvg-logo="http://logocanais.ddns.net/Logo/duck.png" group-title="Canais: 24hrs",Duck Tales 24H
@@ -1875,22 +1881,18 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/3827
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/3830
 #EXTINF:-1 tvg-id="" tvg-name="Mickey e Donald 24H" tvg-logo="http://logocanais.ddns.net/Logo/mickey.png" group-title="Canais: 24hrs",Mickey e Donald 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7209
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous LadyBug 24H" tvg-logo="http://logocanais.ddns.net/Logo/familia.png" group-title="Canais: 24hrs",Miraculous LadyBug 24H
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/24140
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Bean 24H" tvg-logo="http://logocanais.ddns.net/Logo/bean.png" group-title="Canais: 24hrs",Mr. Bean 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9592
 #EXTINF:-1 tvg-id="" tvg-name="Muppets Babies 24H" tvg-logo="http://logocanais.ddns.net/Logo/mup.png" group-title="Canais: 24hrs",Muppets Babies 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/13077
-#EXTINF:-1 tvg-id="" tvg-name="Nanatzu no Taizai 24H" tvg-logo="http://logocanais.ddns.net/Logo/sete.png" group-title="Canais: 24hrs",Nanatzu no Taizai 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9000
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 24H" tvg-logo="http://logocanais.ddns.net/Logo/naruto.png" group-title="Canais: 24hrs",Naruto Shippuden 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9520
 #EXTINF:-1 tvg-id="" tvg-name="O Incrível Mundo de Gumball 24H" tvg-logo="http://logocanais.ddns.net/Logo/Gumball.png" group-title="Canais: 24hrs",O Incrível Mundo de Gumball 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7600
 #EXTINF:-1 tvg-id="" tvg-name="O Mascara 24H" tvg-logo="http://logocanais.ddns.net/Logo/mascara.png" group-title="Canais: 24hrs",O Mascara 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7199
 #EXTINF:-1 tvg-id="" tvg-name="Os Backyardigans 24H" tvg-logo="http://logocanais.ddns.net/Logo/Backyardigans.png" group-title="Canais: 24hrs",Os Backyardigans 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/3831
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="http://logocanais.ddns.net/Logo/simp.png" group-title="Canais: 24hrs",Os Simpsons 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/8413
 #EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões 24H" tvg-logo="http://logocanais.ddns.net/Logo/trapa.png" group-title="Canais: 24hrs",Os Trapalhões 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7208
 #EXTINF:-1 tvg-id="" tvg-name="Patati e Patata 24H" tvg-logo="https://noticiasdatvbrasil.files.wordpress.com/2012/12/patatipatata-gifslindalima7.png" group-title="Canais: 24hrs",Patati e Patata 24H
@@ -1929,6 +1931,14 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/11718
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7205
 #EXTINF:-1 tvg-id="" tvg-name="Tico e Teco 24H" tvg-logo="http://logocanais.ddns.net/Logo/ticoteco.png" group-title="Canais: 24hrs",Tico e Teco 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7197
+#EXTINF:-1 tvg-id="" tvg-name="TR Classicos Series 24H" tvg-logo="http://logocanais.ddns.net/Logo/tr.jpg" group-title="Canais: 24hrs",TR Classicos Series 24H
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25308
+#EXTINF:-1 tvg-id="" tvg-name="TR Classicos Toons 24H" tvg-logo="http://logocanais.ddns.net/Logo/tr2.jpg" group-title="Canais: 24hrs",TR Classicos Toons 24H
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25326
+#EXTINF:-1 tvg-id="" tvg-name="TR Vida Primitiva" tvg-logo="http://logocanais.ddns.net/Logo/tr3.jpg" group-title="Canais: Documentários",TR Vida Primitiva
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25327
+#EXTINF:-1 tvg-id="" tvg-name="TR Stand-up" tvg-logo="http://logocanais.ddns.net/Logo/tr4.jpg" group-title="Canais: Variedades e Músicas",TR Stand-up
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25340
 #EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry 24H" tvg-logo="http://logocanais.ddns.net/Logo/tom.png" group-title="Canais: 24hrs",Tom e Jerry 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/8287
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Monica 24H" tvg-logo="http://logocanais.ddns.net/Logo/monica.png" group-title="Canais: 24hrs",Turma da Monica 24H
@@ -1937,8 +1947,6 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/14242
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/12861
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço 24H" tvg-logo="http://logocanais.ddns.net/Logo/maluco.png" group-title="Canais: 24hrs",Um Maluco no Pedaço 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7203
-#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola 24H" tvg-logo="http://logocanais.ddns.net/Logo/vai.png" group-title="Canais: 24hrs",Vai Que Cola 24H
-http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/12965
 #EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho 24H" tvg-logo="http://logocanais.ddns.net/Logo/yuyu.png" group-title="Canais: 24hrs",Yu Yu Hakusho 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/9543
 #EXTINF:-1 tvg-id="" tvg-name="Radio Anos 2000" tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios",Radio Anos 2000
