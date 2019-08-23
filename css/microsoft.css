@@ -20,9 +20,9 @@ padding: 5;
 margin-top: 80px;
 color: black;
 }
-a{
+/*a{
     color: rgba( 0,0,255,0.50);
-}
+}*/
 p{
     line-height: 2;
 }
@@ -40,4 +40,7 @@ img{
     position: fixed; 
     right: 0px; 
     bottom: 0;
+}
+a{
+    color: #47e03fc2;
 }
