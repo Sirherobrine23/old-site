@@ -119,6 +119,8 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2331
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/13774
 #EXTINF:-1 tvg-id="Band Sports HD [Alter]" tvg-name="Band Sports HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes",Band Sports HD [Alter]
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7479
+#EXTINF:-1 tvg-id="" tvg-name="Barretos - 2019" tvg-logo="http://logocanais.ddns.net/Logo/barretos.png" group-title="Canais: Esportes",Barretos - 2019
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25345
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Músicas",BIS
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2330
 #EXTINF:-1 tvg-id="BIS [Alter]" tvg-name="BIS [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="Canais: Variedades e Músicas",BIS [Alter]
@@ -371,6 +373,10 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7436
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7090
 #EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! Entertainment Television HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/E!1.png" group-title="Canais: Variedades e Músicas",E! Entertainment Television HD [Alter]
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/7435
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus" tvg-logo="http://logocanais.ddns.net/Logo/eiplus.png" group-title="Canais: Esportes",EI Plus
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25484
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus HD" tvg-logo="http://logocanais.ddns.net/Logo/eiplus.png" group-title="Canais: Esportes",EI Plus HD
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25483
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/2303
 #EXTINF:-1 tvg-id="" tvg-name="ESPN [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes",ESPN [Alter 2]
@@ -1939,6 +1945,16 @@ http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25326
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25327
 #EXTINF:-1 tvg-id="" tvg-name="TR Stand-up" tvg-logo="http://logocanais.ddns.net/Logo/tr4.jpg" group-title="Canais: Variedades e Músicas",TR Stand-up
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25340
+#EXTINF:-1 tvg-id="" tvg-name="TR Sertanejo" tvg-logo="http://logocanais.ddns.net/Logo/tr5.jpg" group-title="Canais: Variedades e Músicas",TR Sertanejo
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25342
+#EXTINF:-1 tvg-id="" tvg-name="TR Gospel Internacional" tvg-logo="http://logocanais.ddns.net/Logo/tr7.jpg" group-title="Canais: Religioso",TR Gospel Internacional
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25372
+#EXTINF:-1 tvg-id="" tvg-name="TR Gospel Nacional" tvg-logo="http://logocanais.ddns.net/Logo/tr6.jpg" group-title="Canais: Religioso",TR Gospel Nacional
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25371
+#EXTINF:-1 tvg-id="" tvg-name="TR Racing" tvg-logo="http://logocanais.ddns.net/Logo/tr8.jpg" group-title="Canais: Esportes",TR Racing
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25396
+#EXTINF:-1 tvg-id="" tvg-name="TR Restauracao" tvg-logo="http://logocanais.ddns.net/Logo/tr9.jpg" group-title="Canais: Documentários",TR Restauracao
+http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/25420
 #EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry 24H" tvg-logo="http://logocanais.ddns.net/Logo/tom.png" group-title="Canais: 24hrs",Tom e Jerry 24H
 http://ssiptv.smartlista.org:8880/t467s2rzvm/9wqhfcgadp/8287
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Monica 24H" tvg-logo="http://logocanais.ddns.net/Logo/monica.png" group-title="Canais: 24hrs",Turma da Monica 24H
