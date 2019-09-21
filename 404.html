@@ -1,62 +1,60 @@
+<!DOCTYPE html>
 <html>
 <head>
+  <title>Erro!!!!! Ops.</title>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex" />
+  <meta http-equiv="refresh" content="10, url=/">
+
 <style>
 body{
-width: 90%;
-margin: auto;
-max-width: 70%;
-background: url(/image/ffun.png);
-background-size: cover;
-background-repeat: no-repeat;
-border: 20px;
-color: #00aeff;
+    width: 70%;
+    margin: auto;
+    max-width: 100%;
+    font-family: "Noto-sans-SC";
+    border: 10px;
+    font-size: 25px ;
+    line-height: 2.0;
+    background-image: url(/image/erro.png)
 }
-main{
-border-radius: 25px;
-text-align: center;
-align: center;
-background-color: rgba(136, 124, 124, 0.503);
-padding: 5;
-margin-top: 80px;
-color: black;
-border-color: black;
-}        
 
-.final{
-	position:absolute;
-    background-image: url(/final.png);
-    width:auto;
-    height:auto; 
-    float: right; 
-    margin-bottom: 0;
-    position: fixed; 
-    right: 0px; 
-    bottom: 0;
-}
-header{
-    margin-top: 25px;
-    text-align: center;
-    background-color:rgba(105, 99, 99, 0.088);
-    border-radius: 20px;
+
+main{
+
+    background: #f7f7f7 ;
+    padding: 5;
+    margin-top: 70px;
+    
 }
 </style>
 
-<title>Erro 404, humm que sera, né</title>
 
+<BODY onload=startCountdown()>
+<SCRIPT language=JavaScript>
+ 
+var g_iCount = new Number();
+ 
+// de 30 a 0 //
+var g_iCount = 10;
+ 
+function startCountdown(){
+       if((g_iCount - 1) >= 0){
+               g_iCount = g_iCount - 1;
+               numberCountdown.innerText = '00:00.0' + g_iCount;
+               setTimeout('startCountdown()',1000);
+       }
+}
+</SCRIPT>
 
 </head>
-<header><a href="/"><img src="/old/v0.0.1 beta/logo.png" height="100"></a></header>
-<body>
-    <main>
-        <p>Meu jogos favoritos são da Franquia Sonic The Hedgehog</p><br>
-        <p>Umas das imagens de gosto da Fandom do Sonic </p>
-        <p><img src="/image/needle.jpg" height="200"></p>
-        <p><a href="https://www.deviantart.com/agentskull" target="resource window"> Needle the hedgehog - Family Sonic The hedgehog (AgentSkull) </a></p>
-        <br>
-        
-        
-    </main>
-    <div class="final"><a href="/about.html"><img src="/image/opps.png" height="80"></div>
-        <!-- espaço para escrever ou redirecionar -->
-</body>
+    <FONT face=verdana color=blue size=2><B>
+<DIV id=numberCountdown align=center></DIV>
+
+<main>
+
+    Aguarde redirecionando para pagina Principal é só um erro ou proibição
+
+</main>
+
+  </body>
 </html>
