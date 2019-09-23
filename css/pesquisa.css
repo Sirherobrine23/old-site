@@ -1,8 +1,18 @@
-/**{
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
-}*/
 
-*{
+body{
+ background-image: url(/image/ffun.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+main{
     border-radius: 25px;
+    box-align: center;
+    background-color: rgba(33, 125, 236, 0.054);
+}
+.home{
+  text-align: center;
+}
+.pe{
+  border-radius: 25px;
+  background-color:black;
 }
