@@ -6,7 +6,7 @@
     <link rel="icon" href="https://s.ytimg.com/yts/img/favicon_48-vflVjB_Qk.png" sizes="48x48" >
     <link rel="icon" href="https://s.ytimg.com/yts/img/favicon_96-vflW9Ec0w.png" sizes="96x96" >
     <link rel="icon" href="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png" sizes="144x144" >
-    <meta name="viewport" content="width=100, initial-scale=1">
+    <meta name="viewport" content="Width=100, initial-scale=1">
    
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC">
@@ -39,6 +39,8 @@
       background-color: rgba(139, 58, 58, 0.741);
     }
     </style>
+    <script language="javascript">function resizeIframe() {			i = parent.document.getElementById('IdIframe');		if(i!=null){			iHeight = document.body.scrollHeight;			i.style.height = iHeight + 50 + "px";		}	}</script>
+    <script language="javascript">function resizeIframe() {			i = parent.document.getElementById('IdIframe');		if(i!=null){			iWidth = document.body.scrollWidth;			i.style.Width = iWidth + 50 + "px";		}	}</script>
    </head>
  <body>
         <div class="youtube">
@@ -47,7 +49,10 @@
         <p>
         </div>                               
       <main>
-          <iframe width="1000" height="315" src="https://www.youtube.com/embed/videoseries?list=PLuVUJwwfm5qMJtQSyQhjLzIZrLNSBZYbt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+          <iframe id="IdIframe" src="https://www.youtube.com/embed/videoseries?list=PLuVUJwwfm5qMJtQSyQhjLzIZrLNSBZYbt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen height="400" Width="85%"></iframe>
+        
+        <!--<iframe  src="https://www.youtube.com/embed/videoseries?list=PLuVUJwwfm5qMJtQSyQhjLzIZrLNSBZYbt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
       </main>
      
       <div class="final"><a href="/about.html"><img src="/image/opps.png" height="80"></div>
