@@ -48,5 +48,11 @@ h1{
     color: red;
 }
 .spotify{
+}
 
+video.non-downloadable::-webkit-media-controls-enclosure{
+ overflow: hidden;
+}
+video.non-downloadable::-webkit-media-controls-panel{
+  width: calc(100% + 32px);
 }
