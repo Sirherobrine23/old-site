@@ -1,0 +1,105 @@
+/* 
+
+    Css By Sirherobrine23 (@sirherobrine23)(Matheus S. Queiroga).
+
+*/
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(#00AA00 , #9b7653 15%);
+}
+body{
+    border: 20px;
+    background-attachment: fixed;
+}
+.bo{
+    background-image: linear-gradient(#00AA00 , #9b7653 15%);
+}
+.mai{
+    background-image: url(/mcpe/image/stone.jpg);
+    background-size: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 70%;}
+.fonte{
+    background-image: url(/mcpe/image/glass.png);
+    text-align: center;
+    background-size: 5%;
+
+}
+@font-face{
+    font-family: minecraft;
+    src: url(/mcpe/Mojangles.ttf);
+}
+@font-face{
+    font-family: minecraft2;
+    src: url(/mcpe/Minecraft.ttf);
+}
+a, p, .port {
+    font: 150% minecraft;
+    color: rgb(57, 58, 61);
+}
+h1, h2, h3 {
+    font-family: minecraft;
+    color: rgb(57, 58, 61);
+}
+h1:hover, h2:hover, h3:hover {
+    font-family: minecraft;
+    color: rgb(255, 0, 0);
+}
+.ma{
+    text-align: center;
+    padding: 5;
+    margin-top: 80px;
+    /*color: black;*/
+}
+.port {
+    transition: all 2s;
+}
+.port:hover{
+    transform: scale(1.10);
+    
+}
+a:hover{
+    color:red;
+    
+}
+.final{ 
+    position:absolute;
+    width:auto;
+    height:auto; 
+    float: right; 
+    margin-bottom: 0;
+    right: 10px; 
+    bottom: 0;
+    position: fixed;
+}
+/*.server-mcpe{
+    color: orange;
+
+}
+.server-java{
+    color: purple;
+
+}*/
+.th1{
+    margin-top: 60px;
+    background-color: grey;
+    background-image: url(/mcpe/image/ffun.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.th2{
+    background-color: rgba(16, 16, 100, 0.376);
+    margin-left: 10%;
+    margin-right: 10%;
+    box-sizing: border-box 3px;
+}
+.th3{
+    text-align: center;
+}

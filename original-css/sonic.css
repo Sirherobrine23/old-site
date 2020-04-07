@@ -1,0 +1,235 @@
+/* 
+
+    Css By Sirherobrine23 (@sirherobrine23)(Matheus S. Queiroga).
+
+    *****-****-******-*****-* 
+
+    Css de Sirherobrine23 (@Sirherobrine23)(Matheus S. Queiroga).
+
+
+
+*/
+
+@import url(https://sirherobrine23.ddns.net/css/sonic.css);
+
+@import url(https://sirherobrine23.ddns.net/css/microsoft.css);
+
+@import url(https://sirherobrine23.ddns.net/css/pesquisa.css);
+
+@import url(https://sirherobrine23.ddns.net/css/youtube.css);
+
+
+    body{
+        width: 90%;
+        margin: auto;
+        max-width: 70%;
+        background: url(https://sirherobrine23.ddns.net/image/ffun.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        border: 20px;
+        
+        background-attachment: fixed;
+    }
+    main{
+        text-align: center;
+        align: center;
+        background-color: rgba(153, 142, 142, 0.795) /*105 ediçoes de cores*/;
+        padding: 5;
+        margin-top: 80px;
+        
+        border-color: black;
+    }
+    a{
+        color: rgb(2,42,212);
+    }
+    p{
+        color: black;
+    }
+    .bloco{
+        /*background-color: #b9b9b93b;*/
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+/*---------------*/
+    .ssn{
+        float: left;
+        width: 30%;
+        height: 30%;
+
+     
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+        background-color: rgba(25, 0, 255, 0.637);
+    }
+
+    .ssn2{
+        float: right;
+        width: 30%;
+        height: 30%;
+
+     
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+        background-color: rgba(25, 0, 255, 0.637);
+    }
+    .ssn3{
+        align: center;
+        height: 30%;
+        width: 30%;
+
+        
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+        background-color: rgba(25, 0, 255, 0.637);
+    }
+    
+/*-----------------*/
+    
+    .name, .subtitulo, .youtube{
+        margin: 0;
+        text-align: center;
+    }
+  
+    .final{ 
+        position:absolute;
+        background-image: url(final.png);
+        width:auto;
+        height:auto; 
+        float: right; 
+        margin-bottom: 0;
+        right: 5px; 
+        bottom: 0;
+        position: fixed; 
+    }
+    
+    h1{
+    text-align: center;
+    color:blue;
+    }
+    
+    /*.esque      { float: left;  width: 40%; }
+    .direito    { float: right; width: 40%; }
+    .tudo       { display: table; }
+    .clear      { clear: both; }*/
+    
+    .spotify{
+        border-radius: 25px;
+        background-color: rgba(136, 124, 124, 0.503);
+        padding: 5;
+        margin-top: 80px;
+        color: black;
+    }
+
+  /* SONIC Oficial colors
+
+  Sonic:
+Fur (Modern) – RGB 26, 80, 188; HEX #1A50BC
+Fur (Classic) – RGB 13, 122, 233; HEX #0D7ADF
+Skin (Modern) – RGB 255, 215, 143; HEX #FFD78F
+Skin (Classic) – RGB 255, 224, 177; HEX #FFE0B1
+Eyes – RGB 0, 213, 0; HEX #00D500 and similar shades
+Shoes –RGB 255, 0, 0; HEX #FF0000
+Shoe Buckles – RGB 255, 207, 0; HEX #FFCF00
+
+Tails:
+Fur - RGB 241, 176, 0; HEX #F1B000
+Eyes - RGB 15, 179, 240; HEX #0FB3F0 and similar shades
+Shoes - RGB 255, 0, 0; HEX #FF0000
+
+Knuckles:
+Fur and red shoe part – RGB 255, 20, 0; HEX #FF1400
+Eyes – RGB 95, 63, 170; HEX #5F3FAAand similar shades
+Green shoe part – RGB 1, 170, 51; HEX #01AA33
+Yellow shoe part – RGB 255, 210, 0; HEX #FFD200
+Gray shoe part and soles – RGB 170, 170, 170; HEX #AAAAAA
+Skin – RGB 255, 221, 160; HEX #FFDDA0
+
+Amy:
+Fur – RGB 253, 149, 198; HEX #FD95C6
+Eyes – RGB 1, 169, 0; HEX #01A900
+Dress, shoes, hammer and other red parts – RGB 209, 0, 0; HEX #D10000
+Bracelets and yellow part of the hammer - RGB 255, 210, 0; HEX #FFD200
+Hammer's handle 1st part – RGB 235, 151, 0; HEX #EB9700
+Hammer's handle 2nd part – RGB 175, 92, 0; HEX #AF5C00
+Skin – RGB 254, 220, 149; HEX #FEDC95
+
+Shadow:
+Any red part, including eyes: RGB 220, 0, 0; HEX #DC0000
+Inhibitor rings and thruster thingies on the shoes – RGB 255, 210, 0; HEX #FFD200
+Skin – RGB 255, 181, 40; HEX #FFB528
+
+Rouge:
+Eyes – RGB 14, 160, 150; HEX #0EA096 and similar shades
+Pink cuffs and hearts – RGB 250, 130, 186; HEX #FA82BA
+Wings – RGB 50, 29, 60; HEX #321D3C
+Blue eye shadow – RGB 0, 160, 230; HEX #00A0E6
+Skin – RGB 255, 170, 41; HEX #FFAA29
+Darker skin in the ears – RGB 240, 140, 20; HEX #F08C14
+
+Cream:
+Light cream fur – RGB 255, 230, 190; HEX #FFE6BE
+Orange fur – RGB 255, 139, 0; HEX #FF8B00
+Eyes and nose – RGB 141, 89, 41; HEX #8D5929
+Dress and shoes – RGB 255, 90, 0; HEX #FF5A00
+Yellow part of the shoes and buttons on the cuffs – RGB 254, 225, 0; HEX #FEE100
+Blue bow – RGB 127, 211, 248; HEX #7FD3F8
+
+Dr. Eggman:
+Suit – RGB 241, 10, 0; HEX #F10A00
+Moustache – RGB 210, 111, 10; HEX #D26F0A
+Glasses – RGB 30, 33, 136; HEX #1E2188
+Cuffs – RGB 247, 171, 0; HEX #F7AB00
+Buckle thingies on the suit – RGB 255, 210, 0; HEX #FFD200
+Green lenses in goggles – RGB 62, 183, 55; HEX #3EB737
+Nose – RGB 249, 80, 99; HEX #F95063
+Skin – RGB 255, 196, 146; HEX #FFC492
+
+Blaze:
+Fur – RGB 218, 195, 237; HEX #DAC3ED
+Dress and purple fur – RGB 143, 100, 205; HEX #8F64CD
+Shoes and trim on the dress – RGB 240, 20, 130; HEX #F01482
+Forehead gem and ring – RGB 231, 0, 14; HEX #E7000E
+Eyes and necklace – RGB 255, 180, 0; HEX #FFB400
+Inner ear skin – RGB 255, 230, 120; HEX #FFE678
+
+Silver:
+Fur – RGB 231, 237, 233; HEX #E7EDE9
+Eyes and bracelet thingies – RGB 255, 180, 0; HEX #FFB400
+Cyan part of the shoes – RGB 0, 152, 150; HEX #009896
+Dark blue part of the shoes – RGB 0, 20, 79; HEX #00144F
+Red gems on the shoes – RGB 210, 12, 34; HEX #D20C22
+Skin – RGB 248, 182, 59; HEX #F8B63B
+
+Vector:
+Light green skin – RGB 220, 255, 103; HEX #DCFF67
+Darker skin – RGB 57, 164, 0; HEX #39A400
+Stripes on the shoes and cuff thingies, also eyes – RGB 249, 175, 0; HEX #F9AF00
+Buckles and chain – RGB 255, 210, 0; HEX #FFD200
+Scale thingies on the back – RGB 220, 82, 17; HEX #DC5211
+
+Espio:
+Magenta skin/scales – RGB 201, 0, 140; HEX #C9008C
+Shoes and shields on the gloves – RGB 100, 20, 131; HEX #641483
+Horn, eyes and buttons - RGB 255, 180, 0; HEX #FFB400
+Skin – RGB 255, 210, 129; HEX #FFD281
+
+Charmy:
+Orange on the jacket, shoes and goggles – RGB 255, 134, 1; HEX #FF8601
+Yellow stripes - RGB 100, 20, 131; HEX #641483
+Trim on the helmet – RGB 218, 0, 1; HEX #DA0001
+Eyes – RGB 249, 175, 0; HEX #F9AF00
+Wings – RGB 211, 237, 250; HEX #D3EDFA
+Skin – RGB 254, 214, 142; HEX #FED68E
+
+Omega:
+Red parts – RGB 230, 10, 10; HEX #E60A0A
+Yellow parts – RGB 100, 20, 131; HEX #641483
+Green parts – RGB 100, 178, 32; HEX #64B220
+
+
+*/

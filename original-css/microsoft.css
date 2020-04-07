@@ -1,0 +1,52 @@
+*{
+text-align: center;
+align: center;
+}
+body{
+width: 90%;
+margin: auto;
+max-width: 70%;
+background: url(/image/ffun.png);
+background-size: cover;
+background-repeat: no-repeat;
+border: 20px;
+color: #00aeff;
+line-height: ;
+}
+main{
+border-radius: 25px;
+background-color: rgba(136, 124, 124, 0.503);
+padding: 5;
+margin-top: 80px;
+color: black;
+}
+a{
+    color: rgba( 0,0,255,0.50);
+}
+p{
+    line-height: 2;
+}
+img{
+    align: center;
+}*/
+
+.final{
+	position:absolute;
+    background-image: url(/final.png);
+    width:auto;
+    height:auto; 
+    float: right; 
+    margin-bottom: 0;
+    position: fixed; 
+    right: 0px; 
+    bottom: 0;
+}
+/*a{
+    color: #47e03fc2;
+}*/
+h1{
+    color: red;
+}
+.spotify{
+
+}

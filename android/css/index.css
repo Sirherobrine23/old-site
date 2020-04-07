@@ -1,0 +1,30 @@
+body{
+    background: fixed;
+    background-color; white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: repeating-radial-gradient(#a8a8a881 , #313131b0);
+}
+main{
+    text-align: center;
+    margin: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 13px;
+    /*background-color: rgba(211, 214, 212, 0.548);*/
+    /*background-image: radial-gradient(rgba(19, 204, 133, 0.452) , rgba(2, 66, 216, 0.328));*/
+    margin-top: 50px;
+    /*line-height: 2;*/
+    padding: 50;
+    font-size: 35px;
+}
+.final{ 
+    position:absolute;
+    width:auto;
+    height:auto; 
+    float: right; 
+    margin-bottom: 0;
+    right: 5px; 
+    bottom: 0;
+    position: fixed; 
+}

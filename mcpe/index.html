@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" href="/mcpe/css/sonic.css">
+  <link rel="shortcut icon" href="/image/ssn.ico" type="image/x-icon">
+  <title>Minecraft Downloads - Sirherobrine23 </title>
+  <meta name="msvalidate.01" content="5CB907239C88B1919E525761FC3ADD39" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-129691087-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-129691087-1');</script>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-3560495237873677",enable_page_level_ads: true});</script>
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico"/>
+  <link rel="icon" type="image/x-icon" href="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico"/>
+<link rel="icon" type="image/png" sizes="192x192" href="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/android-icon-192x192.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-96x96.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-16x16.png"/>
+</head>
+<script>
+  //Notification objects have a close() method. SOME browser automatically close them.
+  //Notification Events - click, error, close, show
+  if( 'Notification' in window){
+      
+      if (Notification.permission === 'granted') {
+          // If it's okay let's create a notification
+          doNotify();
+      }else{
+          //notification == denied
+          Notification.requestPermission()
+              .then(function(result) {
+                  console.log(result);  //granted || denied
+                  if( Notification.permission == 'granted'){ 
+                      doNotify();
+                  }
+              })
+              .catch( (err) => {
+                  console.log(err);
+              });
+      }
+  
+  }
+  
+  function doNotify(){
+      let title = "Sirherobrine23 Minecraft update";
+      let t = Date.now() + 120000;    //2 mins in future
+      let options = {
+          body: 'Minecraft Update to 1.14.30.2',
+          data: {prop1:123, prop2:"Steve"},
+          lang: 'pt-BR',
+          icon: '/image/stone.jpg',
+          timestamp: t,
+          vibrate: [100, 200, 100]
+      }
+      let n = new Notification(title, options);
+      
+
+      n.addEventListener('show', function(ev){
+          console.log('SHOW', ev.currentTarget.data);
+      });
+      n.addEventListener('close', function(ev){
+         console.log('CLOSE', ev.currentTarget.body); 
+      });
+      setTimeout( n.close.bind(n), 6000); //close notification after 3 seconds
+  }
+  /*************
+  Note about actions param - used with webworkers/serviceworkers
+  actions: [
+     {action: 'mail', title: 'e-mail', icon: './img/envelope-closed-lg.png'},
+     {action: 'blastoff', title: 'Blastoff', icon: './img/rocket-lg.png'}]
+ *********************/
+</script>
+ <body class="bo">
+      <main class="mai">
+        <div class="fonte">
+         <p>-> <a href="/mcpe/mcpe.html">Arquivos do Mcpe ( Minecraft Bedrock )</a> <-</p>
+        <p><a href="https://arquivos-sh23.ddns.net/Minecraft/ShiginimaSE_v4400.zip">ShiginimaSE v4.400 </a></p>
+          <br>
+            <p>-*-*-*-*-*-</p>
+          <br>
+        <div class="server-mcpe">
+          <p>
+            <a href="https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.30.2.zip">Minecraft PE server 1.14.30.2 - (Oficial Windows)</a>
+          </p>
+          <p>
+            <a href="https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.30.2.zip">Minecraft PE Server 1.14.30.2 - (Oficial Ubuntu)</a>
+            <a href="https://arquivos-sh23.ddns.net/files-mcpe/mcpe.sh" download="mcpe.sh" >Script Iniciar o Servidor do mine no ubuntu</a>
+          </p>
+        </div>
+        <br>
+          <p>-*-*--*-*-*-</p>
+        <br>
+        <div class="server-java">
+          <p>
+            <a href="https://launcher.mojang.com/v1/objects/bb2b6b1aefcd70dfd1892149ac3a215f6c636b07/server.jar" download="server-1.15.2.jar">Minecraft Server Java 1.15.2 - (Oficial Java) </a>
+          </p>
+          <p>
+            <a href="https://arquivos-sh23.ddns.net/files-mcpe/server-java-win.bat" download="serve.bat">Arquivos para iniciar no Windows</a>
+          </p>
+          <p>
+            <a href="https://arquivos-sh23.ddns.net/files-mcpe/serve-java-linux.sh" download="server.sh">Script para iniciar no Linux</a>
+          </p>
+        </div>
+        <br>
+         <!--<div class="spotify"><iframe src="https://open.spotify.com/embed/playlist/1djjSP2OhltefMMc2VW4h4" width="100%" height="2830" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>-->
+        <div class="final">
+          <p>
+        <a href="/"><img src="/image/opps.png" height="40"></a>
+          </p>
+       </div>
+       <button>Notify me!</button>
+        </main>
+      </div>
+  </body>
+</html>

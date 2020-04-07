@@ -1,0 +1,79 @@
+/* 
+
+    Css By Sirherobrine23 (@sirherobrine23)(Matheus S. Queiroga).
+
+    *****-****-******-*****-* 
+
+    Css de Sirherobrine23 (@Sirherobrine23)(Matheus S. Queiroga).
+
+
+
+*/
+@font-face {
+    font-family: minecraft;
+    src: url(/Minecraft.ttf);
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgba(128, 128, 128, 0.26) 70%, blue);
+}
+body{
+    border: 20px;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.26);
+    background-image: url(/image/ffun.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+}
+.mai{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 70%;}
+.fonte{
+    text-align: center;
+
+}
+a, p, h1, h2, h3, h4{
+    font: 40px minecraft;
+    color: black;
+}
+.ma{
+    text-align: center;
+    padding: 5;
+    margin-top: 80px;
+}
+.port:hover{
+    /*transform: scale(1.1);transition: all 3s;*/
+    font: 14px minecraft;
+}
+a:hover{
+    color:red;
+}
+p:hover{
+    color:red;
+}
+h1:hover{
+    color:red;
+}
+h3:hover{
+    color:rgba(33, 25, 146, 0.63);
+}
+.final{ 
+    position:absolute;
+    width:auto;
+    height:auto; 
+    float: right; 
+    margin-bottom: 0;
+    right: 10px; 
+    bottom: 0;
+    position: fixed;
+}.ip{
+    font: 50px minecraft;
+    color: red;
+}

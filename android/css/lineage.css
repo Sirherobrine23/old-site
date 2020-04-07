@@ -1,0 +1,26 @@
+body{
+    background: fixed;
+    /*background-color: rgb(0, 0, 0);*/
+    background-size: cover;
+    background-image:linear-gradient(to bottom ,#ffffff 0%, rgb(43, 42, 42) 100%);
+}
+main{
+    text-align: center;
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 13px;
+    background-color: rgba(9, 82, 64, 0.829) ;
+    margin-top: 50px;
+    line-height: 30px;
+    padding: 5;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+
+
+
