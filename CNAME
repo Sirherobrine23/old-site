@@ -1,1 +1,2 @@
-sirherobrine23.org
+$ dig sirherobrine23.org +noall +answer
+> www.sirherobrine23.org     3600    IN A     185.199.108.153
