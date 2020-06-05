@@ -4,10 +4,8 @@ AddEncoding gzip svgz
 
 ErrorDocument 404 /404.html
 ErrorDocument 403 /404.html
-ErrorDocument 402 /404.html
-ErrorDocument 401 /404.html
-ErrorDocument 400 /404.html
-ErrorDocument 500 /404.html
+ErrorDocument 400 /400.html
+ErrorDocument 500 /500.html
 ErrorDocument 501 /404.html
 ErrorDocument 505 /404.html
 
@@ -20,3 +18,5 @@ IndexOptions SuppressRules
 
 HeaderName /includes/cabecalho.html
 ReadmeName /includes/rodape.html
+
+AddType application/x-httpd-php .php

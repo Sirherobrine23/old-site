@@ -1,0 +1,59 @@
+:root {
+    --primary: #2196f3;
+    --primary-shade: #64b5f6;
+    --text-clr: #fff;
+    --text-lighter: #c4c4c4;
+    --text-dark: var(--primary);
+    --body-bg: #2d2d2d;
+    --body-bg-dark: #181717;
+    --font-sans: "Google Sans", sans-serif;
+    --footer-bg: var(--body-bg-dark);
+    --about-bg: var(--body-bg-dark);
+    --contribute-bg: var(--body-bg);
+    --menu-hover: var(--body-bg-dark);
+    --card-text-clr: #fff;
+    --card-text-lighter: #c4c4c4;
+    --card-bg: var(--body-bg-dark);
+    --card-bg-hover: var(--body-bg-dark);
+    --menu-mobile-hover: #4a5568;
+}
+
+body{
+    background-color: var(--body-bg);
+    height: 100%;
+    width: 10%;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: var(--text-clr);
+}
+main{
+    padding: 50%;
+    width: 90%;
+    height: 90%;
+}
+.down{
+    padding-right: 20%;
+    padding-left: 10%;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.hyper{
+    width: 80%;
+    height: 20%;    
+}
+@media{
+    @keyframes link {
+        0%{color: rgb(0, 26, 255);}
+        50%{color: rgb(195, 169, 22)}
+        100%{color: rgb(255, 0, 0);}
+    }
+}
+a{
+    /*color: var(--primary);*/
+    animation: link 4s alternate infinite ease-in;
+}
+.im{
+    background-color: var(--body-bg-dark);
+}

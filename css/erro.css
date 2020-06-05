@@ -1,0 +1,23 @@
+/* 
+
+    Css By Sirherobrine23 (@sirherobrine23)(Matheus S. Queiroga).
+
+    *****-****-******-*****-* 
+
+    Css de Sirherobrine23 (@Sirherobrine23)(Matheus S. Queiroga).
+
+
+
+*/
+@font-face {
+    font-family: minecraft;
+    src: url(/Minecraft.ttf);
+}
+body{
+    border: 20px;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.26);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+}

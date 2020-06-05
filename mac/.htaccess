@@ -1,0 +1,12 @@
+# SVG Komprimierung einbinden
+AddType image/svg+xml svg svgz
+AddEncoding gzip svgz
+
+ErrorDocument 404 /mac/erro.html
+ErrorDocument 403 /mac/erro.html
+ErrorDocument 402 /mac/erro.html
+ErrorDocument 401 /mac/erro.html
+ErrorDocument 400 /mac/erro.html
+ErrorDocument 500 /mac/erro.html
+ErrorDocument 501 /mac/erro.html
+ErrorDocument 505 /mac/erro.html

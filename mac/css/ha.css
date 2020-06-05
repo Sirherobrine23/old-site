@@ -1,0 +1,39 @@
+ ac-gn-list-searchshow{
+     0%{-webkit-transform:none;transform:none;opacity:1}
+     100%{-webkit-transform:translateY(44px);transform:translateY(44px);opacity:0}
+ }
+@keyframes ac-gn-list-searchshow{
+    0%{-webkit-transform:none;transform:none;opacity:1}
+    100%{-webkit-transform:translateY(44px);transform:translateY(44px);opacity:0}}
+ 
+#ac-globalnav .ac-gn-header+.ac-gn-list{
+    top:48px
+}
+#ac-globalnav .ac-gn-list{cursor:default;margin:0 -10px;width:auto;height:44px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+ @media only screen and (max-width: 767px){
+#ac-globalnav .ac-gn-list{display:block;position:absolute;z-index:1;top:3.52941em;right:0;bottom:0;left:0;max-width:664px;margin:0 auto;padding:45px 40px 8px;height:auto;-webkit-box-sizing:border-box;box-sizing:border-box;overflow-y:auto;-webkit-overflow-scrolling:touch;visibility:hidden;-webkit-transition:visibility 0s linear 1s;transition:visibility 0s linear 1s}
+ 
+#ac-globalnav.menu-opening .ac-gn-list,
+#ac-globalnav.menu-closing .ac-gn-list{overflow:hidden}
+ 
+#ac-gn-menustate:checked ~ 
+#ac-globalnav .ac-gn-list,
+#ac-gn-menustate:target ~ 
+#ac-globalnav .ac-gn-list{visibility:visible;-webkit-transition-delay:0s;transition-delay:0s}
+ 
+#ac-gn-menustate:checked ~ 
+#ac-globalnav.searchshow .ac-gn-list,
+#ac-gn-menustate:target ~ 
+#ac-globalnav.searchshow .ac-gn-list{-webkit-animation:ac-gn-list-searchshow .36s cubic-bezier(0.32, 0.08, 0.24, 1) both;animation:ac-gn-list-searchshow .36s cubic-bezier(0.32, 0.08, 0.24, 1) both}
+ 
+#ac-gn-menustate:checked ~ 
+#ac-globalnav.searchopen .ac-gn-list,
+#ac-gn-menustate:target ~ 
+#ac-globalnav.searchopen .ac-gn-list{visibility:hidden;-webkit-transform:translateY(44px);transform:translateY(44px);opacity:0}
+ 
+#ac-gn-menustate:checked ~ 
+#ac-globalnav.searchhide .ac-gn-list,
+#ac-gn-menustate:target ~ 
+#ac-globalnav.searchhide .ac-gn-list{animation:ac-gn-list-searchshow .36s cubic-bezier(0.8, 0, 0.68, 0.92) reverse both}}
+ @-webkit-keyframes ac-gn-item-searchshow{0%{opacity:1;-webkit-transform:none;transform:none;-webkit-animation-timing-function:cubic-bezier(0.2727, 0.0986, 0.8333, 1);animation-timing-function:cubic-bezier(0.2727, 0.0986, 0.8333, 1)}40%{opacity:1}100%{opacity:0;-webkit-transform:scale(0.7);transform:scale(0.7)}}
+@keyframes ac-gn-item-searchshow{0%{op

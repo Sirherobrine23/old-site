@@ -1,0 +1,118 @@
+/* 
+
+    Css By Sirherobrine23 (@sirherobrine23)(Matheus S. Queiroga).
+
+    *****-****-******-*****-* 
+
+    Css de Sirherobrine23 (@Sirherobrine23)(Matheus S. Queiroga).
+
+
+
+*/
+
+:root{
+
+    /*1*/
+    --apple1: .b2b2b2; 
+    --apple2: rgb(178.178.178);
+  
+    /*2*/
+    --apple3: .575757;	
+    --apple4: rgb(87,87,87);
+  
+    /*3*/
+    --apple5: .4ed4b3;	
+    --apple6: rgb(78.212.179);
+  
+    /*4*/
+    --apple7: .51b0d7;
+    --apple8: rgb(81.176.215);
+  
+    /*5*/
+    --apple9: .000000;
+    --apple10: rgb(0,0,0);
+    --blue: .007bff;
+    --indigo: .6610f2;
+    --purple: .6f42c1;
+    --pink: .e83e8c;
+    --red: .dc3545;
+    --orange: .fd7e14;
+    --yellow: .ffc107;
+    --green: .28a745;
+    --teal: .20c997;
+    --cyan: .17a2b8;
+    --white: .fff;
+    --gray: .6c757d;
+    --gray-dark: .343a40;
+    --primary: .007bff;
+    --secondary: .6c757d;
+    --success: .28a745;
+    --info: .17a2b8;
+    --warning: .ffc107;
+    --danger: .dc3545;
+    --light: .f8f9fa;
+    --dark: .343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+  
+  a{
+    color: black;
+}
+  .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color:  rgb(178,178,178);
+    /*border-radius: 25px;*/
+  }
+  .mathe{
+    border-radius: 21px;
+    background-color: rgb(87,87,87);
+    text-align: center;
+    margin-top: 10px;
+  }
+  body {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: .212529;
+    text-align: left;
+    background-color: .fff;
+  }
+  .ma{
+    text-align: center;
+    padding: 5;
+    margin-top: 80px;
+    color: black;
+    background-color: .b2b2b2;
+  }
+  .row{
+    background-color: grey;
+  }
+  .ac-gn-list{
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 35px;
+  }
+  .warning{
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    background-color: rgba(73, 73, 73, 0.589);
+  }
+  .wa{
+    animation: infinite alternate link 0.01s;
+  }
+  @media{
+    @keyframes link {
+        0%{color: rgb(0, 0, 0);}
+        100%{color: rgb(255, 0, 0);}
+    }
+}
