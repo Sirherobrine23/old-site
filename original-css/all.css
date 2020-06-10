@@ -10,20 +10,20 @@
 
 */
 
-@import url(https://sirherobrine23.ddns.net/sonic/sonic.css);
+@import url(https://sirherobrine23.org/sonic/sonic.css);
 
-@import url(https://sirherobrine23.ddns.net/original-css/microsoft.css);
+@import url(https://sirherobrine23.org/original-css/microsoft.css);
 
-@import url(https://sirherobrine23.ddns.net/original-css/pesquisa.css);
+@import url(https://sirherobrine23.org/original-css/pesquisa.css);
 
-@import url(https://sirherobrine23.ddns.net/original-css/youtube.css);
+@import url(https://sirherobrine23.org/original-css/youtube.css);
 
 
     body{
         width: 90%;
         margin: auto;
         max-width: 70%;
-        background: url(https://sirherobrine23.ddns.net/image/ffun.png);
+        background: url(https://sirherobrine23.org/image/ffun.png);
         background-size: contain;
         background-repeat: no-repeat;
         border: 20px;
